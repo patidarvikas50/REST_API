@@ -1,0 +1,14 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Rest_api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vikas Patidar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
